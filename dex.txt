@@ -5,3 +5,4 @@ Adding line 4 in reo
 Adding line 5 in repo
 Adding line 6 in repo
 Adding line 7 in repo
+Adding line 1 in master
